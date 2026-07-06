@@ -1,8 +1,8 @@
 class Holt < Formula
   desc "Open-source personal agent OS: any LLM, private memory you can see"
   homepage "https://productsdecoded.com/holt"
-  url "https://registry.npmjs.org/@holt-os/holt/-/holt-0.10.0.tgz"
-  sha256 "5dbc856f4006539ea6c148e71bbc1e2f93986b7628bde1478b8e69e9ed54dafd"
+  url "https://registry.npmjs.org/@holt-os/holt/-/holt-0.11.0.tgz"
+  sha256 "d86fb4963d364e469f58d5459ced814786dd8785490c5ee87a04fa3065f36e4c"
   license "MIT"
 
   depends_on "node"
